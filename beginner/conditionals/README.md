@@ -1,17 +1,53 @@
-# Conditionals
+# Conditionals – Python
 
-This folder contains beginner Python scripts focused on using conditional statements.
+This folder contains Python scripts focused on understanding and practicing
+conditional logic using `if`, `elif`, and `else`.
 
-These exercises are designed to practice `if`, `elif`, and `else` statements, as well as basic logical conditions and input validation.
+The scripts simulate real-world decision-making scenarios where different
+outcomes depend on user input and logical conditions.
 
-## Concepts covered
-- `if`, `elif`, and `else` statements
-- Comparison operators
-- Even and odd number checks
-- Simple decision-making logic
-- Basic input validation using `try / except`
+---
+
+## Concepts Covered
+- Conditional statements (`if / elif / else`)
+- Comparison operators (`<`, `>`, `<=`, `>=`, `==`)
+- User input handling
+- Basic input validation
+- Control flow and decision trees
+
+---
 
 ## Scripts
-- **01_age_checker.py** – Checks a user's age and categorizes it using conditional logic.
-- **02_number_comparer.py** – Compares two numbers and determines which one is greater, smaller, or if they are equal.
-- **03_even_or_odd.py** – Determines whether a user-provided number is even or odd.
+
+### Age Validation
+Checks the user's age and determines whether they are a minor or an adult.
+
+**What it teaches:**
+- Comparing numeric values
+- Structuring multiple conditional branches
+- Handling invalid input gracefully
+
+---
+
+### Number Comparer
+Compares two numbers entered by the user and determines:
+
+- If the first number is greater than the second
+- If the second number is greater than the first
+- Or if both numbers are equal
+
+**What it teaches:**
+- Comparing numeric values
+- Writing clear conditional branches
+- Handling multiple possible outcomes
+
+---
+
+### Even or Odd
+Determines whether a number entered by the user is **even or odd**.
+
+**What it teaches:**
+- Using the modulo operator (`%`)
+- Applying conditionals to mathematical logic
+- Writing clean and readable decision-based code
+
