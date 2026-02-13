@@ -13,7 +13,7 @@ Each mini project focuses on logic flow, decision making, and user interaction.
 The projects in this folder may include:
 - `while` loops and program control
 - `if / elif / else`
-- Logical operators (and, or, not)
+- Logical operators (`and, or, not`)
 - `match / case`
 - Input validation
 - Simple randomness (random)
