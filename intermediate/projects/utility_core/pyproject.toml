@@ -1,0 +1,6 @@
+[project]
+name = "utility_core"
+version = 0.1.0
+
+[project.scripts]
+utility-core = "utility_core.cli:main"
