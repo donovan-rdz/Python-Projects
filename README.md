@@ -4,12 +4,24 @@ A curated collection of Python scripts designed to teach fundamental programming
 Each folder focuses on a specific topic (e.g., conditionals, loops, logical operators) and includes annotated examples and projects.
 
 
-## Structure
+## Project Structure
 
-- **hello-world/** – First Python script demonstrating basic output.
-- **conditionals/** – Examples of decision-making with `if` / `elif` / `else`.
-- **loops/** – Scripts showing repetition with `while` and `for`.
-- **logical_operators/** – (future) examples of logical conditions (`and`, `or`, `not`).
+```
+equation-calculator/
+├── main.py                  # Entry point
+├── src/
+│   ├── __init__.py
+│   ├── calculator.py        # Core math logic
+│   └── ui.py                # Display helpers
+├── tests/
+│   ├── __init__.py
+│   └── test_calculator.py   # Unit tests
+├── docs/
+│   └── usage.md             # Usage examples
+├── requirements.txt
+└── README.md
+```
+
 
 ## How to Run
 
