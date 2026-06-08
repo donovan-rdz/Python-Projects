@@ -12,23 +12,6 @@ A Python command-line tool that evaluates mathematical expressions and solves li
 
 ---
 
-## Project Structure
-
-```
-equation-calculator/
-├── main.py                  # Entry point
-├── src/
-│   ├── __init__.py
-│   ├── calculator.py        # Core math logic
-│   └── ui.py                # Display helpers
-├── tests/
-│   ├── __init__.py
-│   └── test_calculator.py   # Unit tests
-├── docs/
-│   └── usage.md             # Usage examples
-├── requirements.txt
-└── README.md
-```
 
 ---
 
