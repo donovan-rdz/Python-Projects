@@ -12,9 +12,6 @@ A Python command-line tool that evaluates mathematical expressions and solves li
 
 ---
 
-
----
-
 ## How to Run
 
 ```bash
